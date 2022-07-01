@@ -6,7 +6,7 @@ let fetch = require('node-fetch')
 let moment = require('moment-timezone')
 const defaultMenu = {
   before: `
-┌─〔 R-Txzy 〕
+┌─〔 Raf Botz 〕
 ├ Hai, *%name!*
 ├ Memory Used : *${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 └────
@@ -337,9 +337,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                                     "description": "Info Tentang Bot",
                                     "rowId": ".? info"
                                 }, { 
-                                    "title": "Tanpa Kategori",
-                                    "description": "",
-                                    "rowId": ".? tanpakategori"
+                                    "title": "Aku dikick",
+                                    "description": "Kamu Akan Dikick",
+                                    "rowId": ".? https://chat.whatsapp.com/CRrj0z3HgeX39XHNUt0M9V"
                                 }, { 
                                     "title": "|🧑‍💻| Owner",
                                     "description": "Menu Khusu Owner",
