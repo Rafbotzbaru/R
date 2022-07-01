@@ -4,11 +4,11 @@ BIG THANKS TO
 
 • Allah swt
 • My ortu
-• Nurutomo
-• Xteam
-• AlyaaXzy 
-• BOTCAHX
-• Zeks
+• Whatsapp
+• Github
+• Heroku
+• Followers
+• Pengguna Raf Botz
 • Penyedia Layanan API
 • Orang-orang yang Berdonasi
 `.trim(), watermark, 'Back', '.menu')
